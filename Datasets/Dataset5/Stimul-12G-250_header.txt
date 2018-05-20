@@ -1,0 +1,2 @@
+Version,Subject,Recording,Startdate,Startime,Bytes,Reserved,NumRec,Duration,NumSig
+.BIOSEMI,Default patient                                                                 ,Default record                                                                  ,19.05.18,17.15.55,1280    ,24BIT                                       ,140,1.007216,4

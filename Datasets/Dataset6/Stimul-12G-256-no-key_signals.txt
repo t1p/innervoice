@@ -1,0 +1,4 @@
+Signal,Label,Transducer,Units,Min,Max,Dmin,Dmax,PreFilter,Smp/Rec,Reserved
+1,F2              ,Unknown                                                                         ,uV      ,-200000.000000,200000.000000,-4194304,4194303,MovAvg:5                                                                        ,250,                                
+2,P2              ,Unknown                                                                         ,uV      ,-200000.000000,200000.000000,-4194304,4194303,MovAvg:5                                                                        ,250,                                
+3,O2              ,Unknown                                                                         ,uV      ,-200000.000000,200000.000000,-4194304,4194303,MovAvg:5                                                                        ,250,                                
